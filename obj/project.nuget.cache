@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tzbnCEJffk0aesjRF3pFwtstksdNr1ciDEgtGvPSqrIJZyKY6eL83Yj3Dpbp2NXtZWhNBGbOU7Z7/3icAJGRVQ==",
+  "success": true,
+  "projectFilePath": "D:\\Training\\Programs\\DesignPatterns\\DesignPatterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sunil\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Sunil\\.nuget\\packages\\unity\\5.11.9\\unity.5.11.9.nupkg.sha512"
+  ],
+  "logs": []
+}
