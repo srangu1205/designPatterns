@@ -1,0 +1,12 @@
+D:\Training\Programs\GitHub\designPatterns\Factory\bin\Debug\netstandard2.0\Factory.deps.json
+D:\Training\Programs\GitHub\designPatterns\Factory\bin\Debug\netstandard2.0\Factory.dll
+D:\Training\Programs\GitHub\designPatterns\Factory\bin\Debug\netstandard2.0\Factory.pdb
+D:\Training\Programs\GitHub\designPatterns\Factory\bin\Debug\netstandard2.0\BusinessModels.dll
+D:\Training\Programs\GitHub\designPatterns\Factory\bin\Debug\netstandard2.0\IContracts.dll
+D:\Training\Programs\GitHub\designPatterns\Factory\bin\Debug\netstandard2.0\BusinessModels.pdb
+D:\Training\Programs\GitHub\designPatterns\Factory\bin\Debug\netstandard2.0\IContracts.pdb
+D:\Training\Programs\GitHub\designPatterns\Factory\obj\Debug\netstandard2.0\Factory.csprojAssemblyReference.cache
+D:\Training\Programs\GitHub\designPatterns\Factory\obj\Debug\netstandard2.0\Factory.csproj.CoreCompileInputs.cache
+D:\Training\Programs\GitHub\designPatterns\Factory\obj\Debug\netstandard2.0\Factory.csproj.CopyComplete
+D:\Training\Programs\GitHub\designPatterns\Factory\obj\Debug\netstandard2.0\Factory.dll
+D:\Training\Programs\GitHub\designPatterns\Factory\obj\Debug\netstandard2.0\Factory.pdb

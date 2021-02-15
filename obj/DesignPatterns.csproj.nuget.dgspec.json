@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Training\\Programs\\DesignPatterns\\DesignPatterns.csproj": {}
+    "D:\\Training\\Programs\\GitHub\\designPatterns\\DesignPatterns.csproj": {}
   },
   "projects": {
-    "D:\\Training\\Programs\\BusinessModels\\BusinessModels.csproj": {
+    "D:\\Training\\Programs\\GitHub\\designPatterns\\BusinessModels\\BusinessModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training\\Programs\\BusinessModels\\BusinessModels.csproj",
+        "projectUniqueName": "D:\\Training\\Programs\\GitHub\\designPatterns\\BusinessModels\\BusinessModels.csproj",
         "projectName": "BusinessModels",
-        "projectPath": "D:\\Training\\Programs\\BusinessModels\\BusinessModels.csproj",
+        "projectPath": "D:\\Training\\Programs\\GitHub\\designPatterns\\BusinessModels\\BusinessModels.csproj",
         "packagesPath": "C:\\Users\\Sunil\\.nuget\\packages\\",
-        "outputPath": "D:\\Training\\Programs\\BusinessModels\\obj\\",
+        "outputPath": "D:\\Training\\Programs\\GitHub\\designPatterns\\BusinessModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\Training\\Programs\\IContracts\\IContracts.csproj": {
-                "projectPath": "D:\\Training\\Programs\\IContracts\\IContracts.csproj"
+              "D:\\Training\\Programs\\GitHub\\designPatterns\\IContracts\\IContracts.csproj": {
+                "projectPath": "D:\\Training\\Programs\\GitHub\\designPatterns\\IContracts\\IContracts.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "D:\\Training\\Programs\\DesignPatterns\\DesignPatterns.csproj": {
+    "D:\\Training\\Programs\\GitHub\\designPatterns\\DesignPatterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training\\Programs\\DesignPatterns\\DesignPatterns.csproj",
+        "projectUniqueName": "D:\\Training\\Programs\\GitHub\\designPatterns\\DesignPatterns.csproj",
         "projectName": "DesignPatterns",
-        "projectPath": "D:\\Training\\Programs\\DesignPatterns\\DesignPatterns.csproj",
+        "projectPath": "D:\\Training\\Programs\\GitHub\\designPatterns\\DesignPatterns.csproj",
         "packagesPath": "C:\\Users\\Sunil\\.nuget\\packages\\",
-        "outputPath": "D:\\Training\\Programs\\DesignPatterns\\obj\\",
+        "outputPath": "D:\\Training\\Programs\\GitHub\\designPatterns\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -92,11 +92,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Training\\Programs\\Factory\\Factory.csproj": {
-                "projectPath": "D:\\Training\\Programs\\Factory\\Factory.csproj"
+              "D:\\Training\\Programs\\GitHub\\designPatterns\\Factory\\Factory.csproj": {
+                "projectPath": "D:\\Training\\Programs\\GitHub\\designPatterns\\Factory\\Factory.csproj"
               },
-              "D:\\Training\\Programs\\IContracts\\IContracts.csproj": {
-                "projectPath": "D:\\Training\\Programs\\IContracts\\IContracts.csproj"
+              "D:\\Training\\Programs\\GitHub\\designPatterns\\IContracts\\IContracts.csproj": {
+                "projectPath": "D:\\Training\\Programs\\GitHub\\designPatterns\\IContracts\\IContracts.csproj"
               }
             }
           }
@@ -128,14 +128,14 @@
         }
       }
     },
-    "D:\\Training\\Programs\\Factory\\Factory.csproj": {
+    "D:\\Training\\Programs\\GitHub\\designPatterns\\Factory\\Factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training\\Programs\\Factory\\Factory.csproj",
+        "projectUniqueName": "D:\\Training\\Programs\\GitHub\\designPatterns\\Factory\\Factory.csproj",
         "projectName": "Factory",
-        "projectPath": "D:\\Training\\Programs\\Factory\\Factory.csproj",
+        "projectPath": "D:\\Training\\Programs\\GitHub\\designPatterns\\Factory\\Factory.csproj",
         "packagesPath": "C:\\Users\\Sunil\\.nuget\\packages\\",
-        "outputPath": "D:\\Training\\Programs\\Factory\\obj\\",
+        "outputPath": "D:\\Training\\Programs\\GitHub\\designPatterns\\Factory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -154,11 +154,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\Training\\Programs\\BusinessModels\\BusinessModels.csproj": {
-                "projectPath": "D:\\Training\\Programs\\BusinessModels\\BusinessModels.csproj"
+              "D:\\Training\\Programs\\GitHub\\designPatterns\\BusinessModels\\BusinessModels.csproj": {
+                "projectPath": "D:\\Training\\Programs\\GitHub\\designPatterns\\BusinessModels\\BusinessModels.csproj"
               },
-              "D:\\Training\\Programs\\IContracts\\IContracts.csproj": {
-                "projectPath": "D:\\Training\\Programs\\IContracts\\IContracts.csproj"
+              "D:\\Training\\Programs\\GitHub\\designPatterns\\IContracts\\IContracts.csproj": {
+                "projectPath": "D:\\Training\\Programs\\GitHub\\designPatterns\\IContracts\\IContracts.csproj"
               }
             }
           }
@@ -197,14 +197,14 @@
         }
       }
     },
-    "D:\\Training\\Programs\\IContracts\\IContracts.csproj": {
+    "D:\\Training\\Programs\\GitHub\\designPatterns\\IContracts\\IContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training\\Programs\\IContracts\\IContracts.csproj",
+        "projectUniqueName": "D:\\Training\\Programs\\GitHub\\designPatterns\\IContracts\\IContracts.csproj",
         "projectName": "IContracts",
-        "projectPath": "D:\\Training\\Programs\\IContracts\\IContracts.csproj",
+        "projectPath": "D:\\Training\\Programs\\GitHub\\designPatterns\\IContracts\\IContracts.csproj",
         "packagesPath": "C:\\Users\\Sunil\\.nuget\\packages\\",
-        "outputPath": "D:\\Training\\Programs\\IContracts\\obj\\",
+        "outputPath": "D:\\Training\\Programs\\GitHub\\designPatterns\\IContracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mp5ukII3WsKLk/V2JvzzkX3PwkkYQXlXseTvgkt9+ltal4NAmKZlk+3JQ7qKfrAZUl/aol06K7bX/pIfLA68xg==",
+  "success": true,
+  "projectFilePath": "D:\\Training\\Programs\\GitHub\\designPatterns\\Factory\\Factory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Sunil\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Sunil\\.nuget\\packages\\unity\\5.11.9\\unity.5.11.9.nupkg.sha512"
+  ],
+  "logs": []
+}

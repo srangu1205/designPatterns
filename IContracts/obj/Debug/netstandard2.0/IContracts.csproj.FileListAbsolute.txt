@@ -1,0 +1,7 @@
+D:\Training\Programs\GitHub\designPatterns\IContracts\bin\Debug\netstandard2.0\IContracts.deps.json
+D:\Training\Programs\GitHub\designPatterns\IContracts\bin\Debug\netstandard2.0\IContracts.dll
+D:\Training\Programs\GitHub\designPatterns\IContracts\bin\Debug\netstandard2.0\IContracts.pdb
+D:\Training\Programs\GitHub\designPatterns\IContracts\obj\Debug\netstandard2.0\IContracts.csprojAssemblyReference.cache
+D:\Training\Programs\GitHub\designPatterns\IContracts\obj\Debug\netstandard2.0\IContracts.csproj.CoreCompileInputs.cache
+D:\Training\Programs\GitHub\designPatterns\IContracts\obj\Debug\netstandard2.0\IContracts.dll
+D:\Training\Programs\GitHub\designPatterns\IContracts\obj\Debug\netstandard2.0\IContracts.pdb

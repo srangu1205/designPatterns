@@ -1,0 +1,10 @@
+D:\Training\Programs\GitHub\designPatterns\BusinessModels\bin\Debug\netstandard2.0\BusinessModels.deps.json
+D:\Training\Programs\GitHub\designPatterns\BusinessModels\bin\Debug\netstandard2.0\BusinessModels.dll
+D:\Training\Programs\GitHub\designPatterns\BusinessModels\bin\Debug\netstandard2.0\BusinessModels.pdb
+D:\Training\Programs\GitHub\designPatterns\BusinessModels\bin\Debug\netstandard2.0\IContracts.dll
+D:\Training\Programs\GitHub\designPatterns\BusinessModels\bin\Debug\netstandard2.0\IContracts.pdb
+D:\Training\Programs\GitHub\designPatterns\BusinessModels\obj\Debug\netstandard2.0\BusinessModels.csprojAssemblyReference.cache
+D:\Training\Programs\GitHub\designPatterns\BusinessModels\obj\Debug\netstandard2.0\BusinessModels.csproj.CoreCompileInputs.cache
+D:\Training\Programs\GitHub\designPatterns\BusinessModels\obj\Debug\netstandard2.0\BusinessModels.csproj.CopyComplete
+D:\Training\Programs\GitHub\designPatterns\BusinessModels\obj\Debug\netstandard2.0\BusinessModels.dll
+D:\Training\Programs\GitHub\designPatterns\BusinessModels\obj\Debug\netstandard2.0\BusinessModels.pdb

@@ -144,18 +144,18 @@
     },
     "BusinessModels/1.0.0": {
       "type": "project",
-      "path": "../BusinessModels/BusinessModels.csproj",
-      "msbuildProject": "../BusinessModels/BusinessModels.csproj"
+      "path": "BusinessModels/BusinessModels.csproj",
+      "msbuildProject": "BusinessModels/BusinessModels.csproj"
     },
     "Factory/1.0.0": {
       "type": "project",
-      "path": "../Factory/Factory.csproj",
-      "msbuildProject": "../Factory/Factory.csproj"
+      "path": "Factory/Factory.csproj",
+      "msbuildProject": "Factory/Factory.csproj"
     },
     "IContracts/1.0.0": {
       "type": "project",
-      "path": "../IContracts/IContracts.csproj",
-      "msbuildProject": "../IContracts/IContracts.csproj"
+      "path": "IContracts/IContracts.csproj",
+      "msbuildProject": "IContracts/IContracts.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -171,11 +171,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Training\\Programs\\DesignPatterns\\DesignPatterns.csproj",
+      "projectUniqueName": "D:\\Training\\Programs\\GitHub\\designPatterns\\DesignPatterns.csproj",
       "projectName": "DesignPatterns",
-      "projectPath": "D:\\Training\\Programs\\DesignPatterns\\DesignPatterns.csproj",
+      "projectPath": "D:\\Training\\Programs\\GitHub\\designPatterns\\DesignPatterns.csproj",
       "packagesPath": "C:\\Users\\Sunil\\.nuget\\packages\\",
-      "outputPath": "D:\\Training\\Programs\\DesignPatterns\\obj\\",
+      "outputPath": "D:\\Training\\Programs\\GitHub\\designPatterns\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -194,11 +194,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Training\\Programs\\Factory\\Factory.csproj": {
-              "projectPath": "D:\\Training\\Programs\\Factory\\Factory.csproj"
+            "D:\\Training\\Programs\\GitHub\\designPatterns\\Factory\\Factory.csproj": {
+              "projectPath": "D:\\Training\\Programs\\GitHub\\designPatterns\\Factory\\Factory.csproj"
             },
-            "D:\\Training\\Programs\\IContracts\\IContracts.csproj": {
-              "projectPath": "D:\\Training\\Programs\\IContracts\\IContracts.csproj"
+            "D:\\Training\\Programs\\GitHub\\designPatterns\\IContracts\\IContracts.csproj": {
+              "projectPath": "D:\\Training\\Programs\\GitHub\\designPatterns\\IContracts\\IContracts.csproj"
             }
           }
         }

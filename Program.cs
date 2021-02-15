@@ -11,7 +11,7 @@ namespace DesignPatterns
         static void Main(string[] args)
         {
             setAdmin();
-
+            admin.Validate();
         }
         private static void setAdmin()
         {
